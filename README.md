@@ -1,1 +1,1 @@
-#Magic Square 
+#Magic Square## RequirementsA Prolog launcher is needed to make this script work.One can be downloaded [here](http://www.gprolog.org/#download).## DescriptionIn the course of AI (Artificial Intelligence) representation, we focused on recursive functions that we called "predicates".In order to develop a main predicate, it is highly recommended divide it into smaller predicates whose roles are specific.This script is an illustration of it.
